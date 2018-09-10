@@ -31,4 +31,4 @@ https://zoom.us/j/6059773406
 
 ## Scheduled  
 If you're interested in presenting at a TSC call about your project, please open a github issue with the request. We can schedule a maximum of one community presentation per TSC meeting.
-September 18st, 2018: [1.0.0-preview](https://github.com/openmessaging/specification),
+September 18st, 2018: [1.0.0-preview](https://github.com/openmessaging/specification)：Du Heng
