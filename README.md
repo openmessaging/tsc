@@ -12,8 +12,9 @@
    Merlimat     
    
 ## Mailing List
-   xx  
-   xxxx   
+   Mailing list: openmessaging-tsc@googlegroups.com    
+   Join:https://groups.google.com/forum/#!forum/openmessaging-tsc
+  
    
 ## Voting
 
