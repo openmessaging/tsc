@@ -2,18 +2,29 @@
    The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project.
    
    
-## Members
-   Vongosling([@vongosling](https://github.com/vongosling))(Chair), Alibaba     
-   Dongeforever([@dongeforever](https://github.com/dongeforever)), Alibaba       
-   Jason918     
-   Duhengforever([@duhengforever](https://github.com/duhengforever)), Alibaba       
-   Sijie    
-   Joe     
-   Merlimat     
+## OpenMessaging Technical Steer Committee(OMTSC)
+##### Vongosling([@vongosling](https://github.com/vongosling))(Chair) 
+##### Duhengforever([@duhengforever](https://github.com/duhengforever))       
+##### Sijie([@sijie](https://github.com/sijie))    
+##### Joe([@joe](https://github.com/joefk))     
+##### Merlimat([@merlimat](https://github.com/merlimat))
+##### Jason918([@Jason918](https://github.com/Jason918))     
+##### Dongeforever([@dongeforever](https://github.com/dongeforever)) 
+
+## OpenMessaging Industrial Advisory Board (OMIAB)
+##### Jiazhai([@jiazhai](https://github.com/jiazhai) 
+##### zhouxinyu([@zhouxinyu](https://github.com/zhouxinyu) 
+##### ShannonDing([@ShannonDing](https://github.com/ShannonDing) 
+##### Yun1129([@yun1129](https://github.com/yun1129) 
+##### Vintagewang([@vintagewang](https://github.com/vintagewang) 
+##### Lizhanhui([@lizhanhui](https://github.com/lizhanhui) 
+
+
+
    
 ## Mailing List
-   Mailing list: openmessaging-tsc@googlegroups.com    
-   Join: https://groups.google.com/forum/#!forum/openmessaging-tsc
+##### Mailing list: openmessaging-tsc@googlegroups.com    
+##### Join: https://groups.google.com/forum/#!forum/openmessaging-tsc
   
    
 ## Voting
@@ -26,9 +37,11 @@ The TSC has created the following working groups to investigate and discuss the 
 | Working Group | Chair            | Meeting Time                          | Minutes/Recordings |
 |---------------|------------------|---------------------------------------|--------------------|
 |Specification|Vongosling|||
-|Runtime Interface|Vongosling|||
+|Runtime Interface|Duhengforever|||
 |Benchemark Interface|Vongosling|||
-|Connector Interface|Vongosling|||
+|Connector Interface|Duhengforever|||
+|Storage Interface|Vongosling|||
+
 
 ## Meeting Time
 The TSC meets on the 1st and 3rd Tuesday of every month at 8AM. (UTC+8 Beijing):
