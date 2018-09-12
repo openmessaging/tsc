@@ -12,16 +12,15 @@
 ##### Dongeforever([@dongeforever](https://github.com/dongeforever)) 
 
 ## OpenMessaging Industrial Advisory Board (OMIAB)
-##### Jiazhai([@jiazhai](https://github.com/jiazhai) 
-##### zhouxinyu([@zhouxinyu](https://github.com/zhouxinyu) 
-##### ShannonDing([@ShannonDing](https://github.com/ShannonDing) 
-##### Yun1129([@yun1129](https://github.com/yun1129) 
-##### Vintagewang([@vintagewang](https://github.com/vintagewang) 
-##### Lizhanhui([@lizhanhui](https://github.com/lizhanhui) 
+##### Jiazhai([@jiazhai](https://github.com/jiazhai))
+##### Zhouxinyu([@zhouxinyu](https://github.com/zhouxinyu))
+##### Cccc1999([@cccc1999](https://github.com/cccc1999))
+##### Qqeasonchen([@qqeasonchen](https://github.com/qqeasonchen))
+##### ShannonDing([@ShannonDing](https://github.com/ShannonDing))
+##### Yun1129([@yun1129](https://github.com/yun1129))
+##### Vintagewang([@vintagewang](https://github.com/vintagewang))
+##### Lizhanhui([@lizhanhui](https://github.com/lizhanhui)）
 
-
-
-   
 ## Mailing List
 ##### Mailing list: openmessaging-tsc@googlegroups.com    
 ##### Join: https://groups.google.com/forum/#!forum/openmessaging-tsc
