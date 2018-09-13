@@ -1,6 +1,4 @@
-# OpenTracing Project Organization
-
-   
+## OpenMessaging Project Organization  
 [OpenMessageing](http://openmessaging.cloud) is a cloud native, vendor-neutral open specification for distributed messaging:
 
 **Messaging tool maintainers:** "Provide a unified messaging interface for all services" is an unreasonable goal for any one particular messaging project or vendor. OpenMessaging essentially amortizes this work.        
