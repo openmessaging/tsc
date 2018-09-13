@@ -7,9 +7,9 @@
 OpenMessaging's project organization makes room for each of these constituencies.
    
 ## OpenMessaging Technical Steer Committee(OMTSC)
-   The authors of any messaging tools that supports OpenMessaging are always invited to contribute to discussions about the future of OpenMessaging as a standard. 
-   OpenMessaging endeavors to maintain a list of such authors and will occasionally solicit feedback from that group.    
-   The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project. The current OpenMessaging Technical Steer Committee is as follows:
+The authors of any messaging tools that supports OpenMessaging are always invited to contribute to discussions about the future of OpenMessaging as a standard. 
+OpenMessaging endeavors to maintain a list of such authors and will occasionally solicit feedback from that group.    
+The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project. The current OpenMessaging Technical Steer Committee is as follows:
 - Vongosling([@vongosling](https://github.com/vongosling))(Chair) 
 - Duheng([@duhengforever](https://github.com/duhengforever))       
 - Sijie([@sijie](https://github.com/sijie))    
@@ -19,10 +19,15 @@ OpenMessaging's project organization makes room for each of these constituencies
 - Liu Zhendong([@dongeforever](https://github.com/dongeforever))
     
 OMTSC members have the following primary responsibilities:
-- Define priorities for OpenMessaging as a project and standard  
-- Accurately represent the concerns and needs of messaging and streaming tools   
-- Strategize around possible third-party package integrations    
-- Weigh in and offer tie-breaking votes for issues where consensus among the larger community has proven elusive     
+- Coordinating the technical direction of the Project;
+- Approving project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope);
+- organizing sub-projects and removing projects;
+- Creating sub-committees or working groups to focus on cross-project technical issues and requirements;
+- Appointing representatives to work with other open source or open standards communities;
+- Establishing community norms, workflows, issuing releases, and security issue reporting policies;
+- Approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING file) and coordinating with the Series Manager to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
+- Discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
+- Coordinating any marketing, events, or communications regarding the Project with the LF Projects Manager or their designee.
 
 ## OpenMessaging Industrial Advisory Board (OMIAB)
 OpenMessaging has an Industrial Advisory Board (OMIAB) that comprises engineers with detailed knowledge of tracing technology at companies of different scales and software maturity.
