@@ -9,7 +9,7 @@ OpenMessaging's project organization makes room for each of these constituencies
 ## OpenMessaging Technical Steer Committee(OMTSC)
    The authors of any messaging tools that supports OpenMessaging are always invited to contribute to discussions about the future of OpenMessaging as a standard. 
    OpenMessaging endeavors to maintain a list of such authors and will occasionally solicit feedback from that group.    
-   The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project. The current OpenTracing Specification Council is as follows:
+   The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project. The current OpenMessaging Technical Steer Committee is as follows:
 - Vongosling([@vongosling](https://github.com/vongosling))(Chair) 
 - Duheng([@duhengforever](https://github.com/duhengforever))       
 - Sijie([@sijie](https://github.com/sijie))    
