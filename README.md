@@ -53,8 +53,7 @@ OMIAB members have the following primary responsibilities:
 
 
 ## Mailing List
-- Mailing list: openmessaging-tsc@googlegroups.com    
-- Join: https://groups.google.com/forum/#!forum/openmessaging-tsc
+- Mailing list: openmessaging-tsc@googlegroups.com
   
    
 ## Voting
