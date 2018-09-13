@@ -30,7 +30,8 @@ OMTSC members have the following primary responsibilities:
 - Coordinating any marketing, events, or communications regarding the Project with the LF Projects Manager or their designee.
 
 ## OpenMessaging Industrial Advisory Board (OMIAB)
-OpenMessaging has an Industrial Advisory Board (OMIAB) that comprises engineers with detailed knowledge of tracing technology at companies of different scales and software maturity.
+OpenMessaging has an Industrial Advisory Board (OMIAB) that comprises engineers with detailed knowledge of messaging
+technology at companies of different scales and software maturity.
 The OMTSC members engage with the OMIAB on a periodic basis to gather feedback about successes, challenges, and open-source packages which would benefit from greater OpenMessaging support.     
 The current OpenMessaging Industrial Advisory Board is as follows:
 
@@ -58,7 +59,7 @@ OMIAB members have the following primary responsibilities:
    
 ## Voting
 
-In various situations the OpenMessaging TSC shall hold a vote. These votes can happen on the phone, email, or via a voting service, when appropriate. TOC members can either respond "agree, yes, +1", "disagree, no, -1", or "abstain". A vote passes with two-thirds vote of votes cast based on the charter (see 6(c)(viii)). An abstain vote equals not voting at all.
+In various situations the OpenMessaging TSC shall hold a vote. These votes can happen on the phone, email, or via a voting service, when appropriate. TSC members can either respond "agree, yes, +1", "disagree, no, -1", or "abstain". A vote passes with two-thirds vote of votes cast based on the charter (see 6(c)(viii)). An abstain vote equals not voting at all.
 
 ## Working Groups
 The TSC has created the following working groups to investigate and discuss the following topics:
