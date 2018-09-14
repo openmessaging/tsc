@@ -50,6 +50,7 @@ OMIAB members have the following primary responsibilities:
 - Provide feedback about possible priorities and/or specific proposals from the OMTSC
 - Represent OpenMessaging’s interests within their own organizations
 
+**[Election](election.md)**
 
 ## Mailing List
 - Mailing list: openmessaging-tsc@googlegroups.com    
