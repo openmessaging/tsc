@@ -43,7 +43,10 @@ The current OpenMessaging Industrial Advisory Board is as follows:
 - Yun1129([@yun1129](https://github.com/yun1129))
 - Vintagewang([@vintagewang](https://github.com/vintagewang))
 - Lizhanhui([@lizhanhui](https://github.com/lizhanhui)）   
- 
+- Wlliqipeng([@wlliqipeng](https://github.com/wlliqipeng)))
+- YangJodie([@YangJodie](https://github.com/YangJodie))
+- Hill007299([@hill007299](https://github.com/hill007299))
+
 OMIAB members have the following primary responsibilities:  
     
 - Describe and rationalize messaging challenges within their own companies: it is particularly important that they are regularly exposed to instrumentation, integration, and usability issues related to messaging, and further that they are able to effectively distill these concerns and communicate them back to the OMTSC.
