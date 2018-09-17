@@ -42,10 +42,12 @@ The current OpenMessaging Industrial Advisory Board is as follows:
 - ShannonDing([@ShannonDing](https://github.com/ShannonDing))
 - Yun1129([@yun1129](https://github.com/yun1129))
 - Vintagewang([@vintagewang](https://github.com/vintagewang))
-- Lizhanhui([@lizhanhui](https://github.com/lizhanhui)）   
+- Lizhanhui([@lizhanhui](https://github.com/lizhanhui)）  
+- Psoft007([@psoft007](https://github.com/psoft007))
 - Wlliqipeng([@wlliqipeng](https://github.com/wlliqipeng)))
 - YangJodie([@YangJodie](https://github.com/YangJodie))
 - Hill007299([@hill007299](https://github.com/hill007299))
+- Zhouli11([@zhouli11](https://github.com/zhouli11))
 
 OMIAB members have the following primary responsibilities:  
     
