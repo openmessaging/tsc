@@ -88,18 +88,17 @@ If you would like to take on a more formal role on the OMTSC or OMIAB, please re
 
 
 ## Meeting Time
-The TSC meets on the 1st Tuesday of every month at 19:00 PM. (UTC+8 Beijing):
+The TSC meets on the 1st Tuesday of every month at 19:00 PM. (UTC+8 Beijing):    
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/134543135        
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/134543135
+Or iPhone one-tap :     
+    US: +16468769923,,134543135#  or +14086380986,,134543135#       
+Or Telephone:      
+    Dial(for higher quality, dial a number based on your current location):    
+        US: +1 646 876 9923  or +1 408 638 0986       
+    Meeting ID: 134 543 135     
+    International numbers available: https://zoom.us/u/ajgNRM70p     
 
-Or iPhone one-tap :
-    US: +16468769923,,134543135#  or +14086380986,,134543135# 
-Or Telephone:
-    Dial(for higher quality, dial a number based on your current location): 
-        US: +1 646 876 9923  or +1 408 638 0986 
-    Meeting ID: 134 543 135
-    International numbers available: https://zoom.us/u/ajgNRM70p
-    
 
 ## Projects
 
