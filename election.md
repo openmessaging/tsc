@@ -2,6 +2,8 @@
 The first seven OMTSC members were composed of founding teams. Subsequent OMTSC members must come from the OMIAB and recommended by an OMTSC member, represent the relevant product or company that have supported OpenMessaging,
 After voting, they will be accepted as TSC members, the result of voting +1 must be more than half, the voting time is 7 days.
 
+If there is a disagreement that cannot be resolved for a long time, chairman is responsible for coordination and deciding what action has to be taken and then getting on and sorting it out. 
+
 ## OMIAB
 The engineers who are recommended by OTSC members and who are familiar with OpenMessaging related projects can enter OMIAB after voting by OMTSC. The result of voting +1 must exceed three votes, 
 the voting time is 3 days.
