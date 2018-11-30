@@ -47,6 +47,11 @@ The current OpenMessaging Industrial Advisory Board is as follows:
 - YangJodie([@YangJodie](https://github.com/YangJodie))
 - Hill007299([@hill007299](https://github.com/hill007299))
 - Zhouli11([@zhouli11](https://github.com/zhouli11))
+- Ustcchensu[@ustcchensu](https://github.com/ustcchensu)
+- Nera0[@nera0](https://github.com/nera0)
+- Rayzhou2017[@rayzhou2017](https://github.com/rayzhou2017)
+- Ssssssnake[@ssssssnake](https://github.com/ssssssnake)
+- Zongtanghu[@zongtanghu](https://github.com/zongtanghu)
 
 OMIAB members have the following primary responsibilities:  
     
