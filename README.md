@@ -12,7 +12,6 @@ OpenMessaging endeavors to maintain a list of such authors and will occasionally
 The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project. The current OpenMessaging Technical Steer Committee is as follows:
 - Vongosling([@vongosling](https://github.com/vongosling))(Chair) 
 - Duheng([@duhengforever](https://github.com/duhengforever))       
-- Sijie([@sijie](https://github.com/sijie))    
 - Joe([@joe](https://github.com/joefk))     
 - Merlimat([@merlimat](https://github.com/merlimat))
 - Jiang Haiting([@Jason918](https://github.com/Jason918))     
