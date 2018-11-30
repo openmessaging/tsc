@@ -77,7 +77,7 @@ The TSC has created the following working groups to investigate and discuss the 
 |---------------|------------------|---------------------------------------|--------------------|
 |Specification|Vongosling|||
 |Runtime Interface|Duhengforever|||
-|Benchemark Interface|Vongosling|||
+|Benchmark Interface|Vongosling|||
 |Connector Interface|Duhengforever|||
 |Storage Interface|Vongosling|||
 
