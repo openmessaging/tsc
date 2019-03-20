@@ -55,7 +55,7 @@ The current OpenMessaging Industrial Advisory Board members are as follows:
 - Nkurihar([@nkurihar](https://github.com/nkurihar))
 - Emqplus([@emqplus](https://github.com/emqplus))
 - Bluefish0007([@bluefish0007](https://github.com/bluefish0007))
-- Luomaidi([@luomaidi](https://github.com/luomaidi))
+- Luomaidi([@luomaidi](https://github.com/aluomaidi))
 - Francisoliverlee([@francisoliverlee](https://github.com/francisoliverlee))
 
 OMIAB members have the following primary responsibilities:  
