@@ -32,7 +32,7 @@ OMTSC members have the following primary responsibilities:
 OpenMessaging has an Industrial Advisory Board (OMIAB) that comprises engineers with detailed knowledge of messaging
 technology at companies of different scales and software maturity.
 The OMTSC members engage with the OMIAB on a periodic basis to gather feedback about successes, challenges, and open-source packages which would benefit from greater OpenMessaging support.     
-The current OpenMessaging Industrial Advisory Board is as follows:
+The current OpenMessaging Industrial Advisory Board members are as follows:
 
 - Jiazhai([@jiazhai](https://github.com/jiazhai))
 - Zhouxinyu([@zhouxinyu](https://github.com/zhouxinyu))
@@ -52,6 +52,11 @@ The current OpenMessaging Industrial Advisory Board is as follows:
 - Rayzhou2017([@rayzhou2017](https://github.com/rayzhou2017))
 - Ssssssnake([@ssssssnake](https://github.com/ssssssnake))
 - Zongtanghu([@zongtanghu](https://github.com/zongtanghu))
+- Nkurihar([@nkurihar](https://github.com/nkurihar))
+- Emqplus([@emqplus](https://github.com/emqplus))
+- Bluefish0007([@bluefish0007](https://github.com/bluefish0007))
+- Luomaidi([@luomaidi](https://github.com/luomaidi))
+- Francisoliverlee([@francisoliverlee](https://github.com/francisoliverlee))
 
 OMIAB members have the following primary responsibilities:  
     
