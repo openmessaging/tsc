@@ -57,6 +57,16 @@ The current OpenMessaging Industrial Advisory Board members are as follows:
 - Bluefish0007([@bluefish0007](https://github.com/bluefish0007))
 - Luomaidi([@luomaidi](https://github.com/aluomaidi))
 - Francisoliverlee([@francisoliverlee](https://github.com/francisoliverlee))
+- Mao Li([@WildWolfBang](https://github.com/WildWolfBang))
+- Maning8([@Maning8](https://github.com/Maning8))
+- Liangliang Chen([@bluecll](https://github.com/bluecll))
+- xiaoweiwei([@xiaoweiwei](https://github.com/xiaoweiwei))
+- Qiang Li([@momofish](https://github.com/momofish))
+- Li Aixiong/([@liaixiong](https://github.com/liaixiong))
+- Peiyu Lin/([@mathspanda](https://github.com/mathspanda))
+- Ji Ma/([@TalkingData](https://github.com/TalkingData))
+- Li Wei/([@francisoliverlee](https://github.com/francisoliverlee))
+
 
 OMIAB members have the following primary responsibilities:  
     
