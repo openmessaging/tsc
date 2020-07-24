@@ -67,6 +67,7 @@ The current OpenMessaging Industrial Advisory Board members are as follows:
 - Ji Ma/([@TalkingData](https://github.com/TalkingData))
 - Xiaojun Yue/([@junedo](https://github.com/junedo))
 - Xu Han/([@superhx]( https://github.com/superhx))
+- Lin Xin/([@dbl-x]( https://github.com/dbl-x))
 
 OMIAB members have the following primary responsibilities:  
     
