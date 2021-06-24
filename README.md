@@ -89,13 +89,15 @@ In various situations the OpenMessaging TSC shall hold a vote. These votes can h
 ## Working Groups
 The TSC has created the following working groups to investigate and discuss the following topics:
 
-| Working Group | Chair            | Meeting Time                          | Minutes/Recordings |
-|---------------|------------------|---------------------------------------|--------------------|
-|Specification|Vongosling|||
-|Runtime Interface|Duhengforever|||
-|Benchmark Interface|Vongosling|||
-|Connector Interface|Duhengforever|||
-|Storage Interface|Vongosling|||
+| Working Group | Chair(Sponsor)            | 
+|---------------|------------------|
+|Specification|Vongosling|
+|Runtime Interface|Duhengforever|
+|Benchmark Interface|Vongosling|
+|Storage Interface|Vongosling|
+|OpenConnect|Duhengforever|
+|OpenChaos|Vongosling|
+|OpenSchema|Duhengforever|
 
 ## Afterword: what's the point of OpenMessaging Organization?
 Sometimes formal governance and acronyms like "OMTSC" or "OMIAB" signify hierarchy and exclusion in an open-source effort. The intention with OpenMessaging's organization is to do exactly the opposite: by guaranteeing participation from multiple constituencies and multiple software projects and organizations, 
