@@ -89,7 +89,7 @@ In various situations the OpenMessaging TSC shall hold a vote. These votes can h
 ## Working Groups
 The TSC has created the following working groups to investigate and discuss the following topics:
 
-| Working Group | Chair(Sponsor)            | 
+| Working Group | Co-chair/Sponsor           | 
 |---------------|------------------|
 |Specification|Vongosling|
 |Runtime Interface|Duhengforever|
